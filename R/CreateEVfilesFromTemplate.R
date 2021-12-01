@@ -158,5 +158,5 @@ CreateEVFilesFromTemplate <- function(FileSetName = NULL,
     EVCloseFile(EVFile = EVFile)
     Sys.sleep(1)
   }
-  QuitEchoview()
+  QuitEchoview(  EVAppObj)
 }
