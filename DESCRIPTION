@@ -1,0 +1,14 @@
+Package: openacoustics
+Type: Package
+Title: Tools For Processing Echosounder Data With Reproducibility
+Version: 0.1.0
+Author: David Warner
+Maintainer: David Warner <dmwarner@usgs.gov>
+Description: This package includes software tools for carrying out 
+    common tasks associated with processing fishery acoustics data.
+    Special emphasis is placed on generating information that can aid
+    in reproducible analyses. 
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
